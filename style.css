@@ -532,7 +532,7 @@ main {
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    width: 450px;
+    width: auto;
 }
 
 .project-img-placeholder {
